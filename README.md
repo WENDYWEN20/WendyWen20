@@ -1,4 +1,4 @@
-# Wendy-Wen
+Hi there, I'm # Wendy-Wen 👋
 💻 Current Work
 
 Currently contributing to [mention any projects or workplaces, e.g., "SecureX at Cisco" if applicable] as a [mention your role, e.g., "Data Analyst"].
