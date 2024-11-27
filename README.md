@@ -2,7 +2,7 @@
 ![IMG_8780_Copy](https://github.com/user-attachments/assets/c2256e71-2fbd-4ae5-8d8a-4e0c9d4b9f55)
 
 
-🚀 Actively Seeking Software Engineering Roles
+🚀 
 I'm a versatile professional with a background in web development and data science, actively seeking software engineering roles where I can leverage and grow my expertise in these areas. I’m passionate about creating scalable solutions, optimizing data workflows, and developing engaging user experiences.
 
 🌟 About Me
