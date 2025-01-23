@@ -6,8 +6,7 @@
 I'm a versatile professional with a background in web development and data science, actively seeking software engineering roles where I can leverage and grow my expertise in these areas. I’m passionate about creating scalable solutions, optimizing data workflows, and developing engaging user experiences.
 
 🌟 About Me
-I bring a unique blend of skills in both front-end and back-end web development and data analysis, enabling me to tackle a wide range of technical challenges. From building responsive web applications to creating robust data pipelines, I am committed to delivering impactful results. I graduated from the Per Scholas Software Engineer program.
-https://perscholas.org/courses/software-engineer/software-engineer-new-york/
+I bring a unique blend of skills in both front-end and back-end web development and data analysis, enabling me to tackle a wide range of technical challenges. From building responsive web applications to creating robust data pipelines, I am committed to delivering impactful results. 
 
 💻 Skills and Technologies
 
