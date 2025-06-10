@@ -10,9 +10,9 @@ I bring a unique blend of skills in both front-end and back-end web development 
 
 💻 Skills and Technologies
 
-Web Development: JavaScript (React, Node.js), HTML, CSS, RESTful APIs
+Web Development: JavaScript (React, Node.js), HTML, CSS, RESTful APIs, GraphQL
 Data Science: Python (Pandas, NumPy, Scikit-Learn), SQL, Data Visualization (Matplotlib, Seaborn)
-Tools: Git, Jupyter Notebooks, Docker, AWS
+Tools: Git, Jupyter Notebooks, Docker, AWS, Kubernetes
 
 📚 Current Focus
 I am currently expanding my skills in:
